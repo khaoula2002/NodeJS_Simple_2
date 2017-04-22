@@ -3,6 +3,6 @@ applications:
   memory: 256M
   instances: 1
   domain: mybluemix.net
-  name: jarmouni.khaoula@gmail.com
+  name: khaoula2002
   host: khaoula2002
   disk_quota: 1024M
